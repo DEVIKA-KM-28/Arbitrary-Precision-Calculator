@@ -1,0 +1,30 @@
+NAME - DEVIKA.K.M
+PROJECT NAME - Arbitrary Precision Calculator(APC)
+ADMISSION ID - 25021_290
+DATE - 03-FEB-2026
+
+sample - output
+
+1   ./a.out 10 * 2
+ERROR : Invalid arguments
+INFO  : ./a.out <operand1> <operator> <operand2>
+
+2.ADDITION
+
+./a.out 10 + 3
+Result = 13
+
+3.SUBTRACTION
+./a.out 5 - 8
+Result = -3
+
+4.MULTIPLICATION
+./a.out 5 x 6
+Result = 30
+
+./a.out 10 X 4
+Result = 40
+
+5.DIVISION
+./a.out 10 / 3
+Result = 3
